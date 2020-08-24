@@ -12,3 +12,4 @@ When this project were created, this references above used. Used SSD-MobileNet m
 For better detection for bad visibility areas, i added CLAHE preprocessing method. 
 
 I am improving this algorithm for better detection and better distance measurement.
+<img src="https://github.com/KubraTurker/Social_Distancing-CV/blob/master/example.png">
